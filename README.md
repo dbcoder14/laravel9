@@ -1,4 +1,5 @@
 https://www.naept.com/blog/easily-debug-your-laravel-sail-applications-with-xdebug/
+https://www.youtube.com/watch?v=KHFOVDixnyw&ab_channel=devdojo
 
 
 
